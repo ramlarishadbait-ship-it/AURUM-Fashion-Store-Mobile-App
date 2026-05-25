@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044190692077",
+    "project_id": "aurum-fashion-store",
+    "storage_bucket": "aurum-fashion-store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044190692077:android:61fa9a8002a919ce54c2e4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_aurum_luxury_fashion_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXu6u3qljQ96MJU_MZEksrR5O6pS6YJqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

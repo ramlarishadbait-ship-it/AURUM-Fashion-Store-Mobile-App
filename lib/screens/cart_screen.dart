@@ -13,7 +13,7 @@ class CartScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: AppTheme.ivory,
-      appBar: LuxuryAppBar(title: 'YOUR BAG'),
+      appBar: const LuxuryAppBar(title: 'YOUR BAG'),
       body: Consumer<CartProvider>(
         builder: (_, cart, __) {
           if (cart.items.isEmpty) {

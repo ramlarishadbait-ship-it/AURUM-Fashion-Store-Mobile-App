@@ -16,7 +16,7 @@ class _ProductDetailScreenState extends State<ProductDetailScreen>
   String? _selectedSize;
   String? _selectedColor;
   bool _wishlisted = false;
-  bool _descExpanded = false;
+  final bool _descExpanded = false;
   late TabController _tabCtrl;
 
   @override
